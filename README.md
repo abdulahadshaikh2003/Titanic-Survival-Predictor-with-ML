@@ -17,3 +17,13 @@ scikit-learn
 ## Installation
 bash
 pip install -r requirements.txt
+
+
+
+## 🚀 Deployment  
+Interactive web app deployed on HuggingFace:  
+https://huggingface.co/spaces/abdulahadshaikh2003/titanic-survival/
+
+Key Features:  
+- Real-time survival probability calculation  
+- SHAP force plots explain each prediction  
